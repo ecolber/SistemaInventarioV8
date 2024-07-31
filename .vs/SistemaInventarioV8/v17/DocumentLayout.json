@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Proyectos\\SistemaInventarioV8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24F061A5-69B8-466B-8E34-E018468B0512}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventario.accesodatos\\repositorio\\bodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F061A5-69B8-466B-8E34-E018468B0512}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\bodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventariov8\\areas\\admin\\controllers\\bodegacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|solutionrelative:sistemainventariov8\\areas\\admin\\controllers\\bodegacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F061A5-69B8-466B-8E34-E018468B0512}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventario.accesodatos\\repositorio\\irepositorio\\ibodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F061A5-69B8-466B-8E34-E018468B0512}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\irepositorio\\ibodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventariov8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|solutionrelative:sistemainventariov8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventariov8\\areas\\admin\\views\\bodega\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|solutionrelative:sistemainventariov8\\areas\\admin\\views\\bodega\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventariov8\\views\\shared\\_botonesactualizaryregresar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|solutionrelative:sistemainventariov8\\views\\shared\\_botonesactualizaryregresar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|d:\\proyectos\\sistemainventariov8\\sistemainventariov8\\views\\shared\\_botonescrearyregresar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991135CD-F1C9-42E7-B0DB-2A1CF6E603DB}|SistemaInventarioV8\\SistemaInventarioV8.csproj|solutionrelative:sistemainventariov8\\views\\shared\\_botonescrearyregresar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BodegaRepositorio.cs",
-              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\BodegaRepositorio.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:45:21.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBodegaRepositorio.cs",
-              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
-              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\IRepositorio\\IBodegaRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:44:31.062Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaInventarioV8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:54:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_BotonesActualizarYRegresar.cshtml",
+              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Views\\Shared\\_BotonesActualizarYRegresar.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV8\\Views\\Shared\\_BotonesActualizarYRegresar.cshtml",
+              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Views\\Shared\\_BotonesActualizarYRegresar.cshtml",
+              "RelativeToolTip": "SistemaInventarioV8\\Views\\Shared\\_BotonesActualizarYRegresar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T17:22:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_BotonesCrearYRegresar.cshtml",
+              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Views\\Shared\\_BotonesCrearYRegresar.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV8\\Views\\Shared\\_BotonesCrearYRegresar.cshtml",
+              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Views\\Shared\\_BotonesCrearYRegresar.cshtml",
+              "RelativeToolTip": "SistemaInventarioV8\\Views\\Shared\\_BotonesCrearYRegresar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T17:17:54.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV8\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "RelativeToolTip": "SistemaInventarioV8\\Areas\\Admin\\Views\\Bodega\\Upsert.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T16:53:53.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BodegaController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioV8\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "ToolTip": "D:\\Proyectos\\SistemaInventarioV8\\SistemaInventarioV8\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "RelativeToolTip": "SistemaInventarioV8\\Areas\\Admin\\Controllers\\BodegaController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:46:19.389Z",
+              "EditorCaption": ""
             }
           ]
         }
